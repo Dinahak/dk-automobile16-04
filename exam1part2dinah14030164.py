@@ -550,4 +550,4 @@ Categorical variables:
 <p>As we now move into building machine learning models to automate our analysis, feeding the model with variables that meaningfully affect our target variable will improve our model's prediction performance.</p>
 """
 
-!jupyter nbconvert --to html "Exam1Part2Dinah14030164.ipynb"
+#!jupyter nbconvert --to html "Exam1Part2Dinah14030164.ipynb"
